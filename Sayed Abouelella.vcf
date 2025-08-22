@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.6.1//EN
+N:Abouelella;Sayed;;;
+FN:Sayed Abouelella
+ORG:Hyatt Regency Dubai Creek Heights;
+TITLE:Director of Security
+EMAIL;type=INTERNET;type=WORK;type=pref:sayed.abouelella@hyatt.com
+TEL;type=WORK;type=VOICE;type=pref:+971 4 553 1234
+TEL;type=CELL;type=VOICE:+971 52 905 8699
+ADR;type=WORK;type=pref:;;20th Street\, Dubai Healthcare City\, Bur Dubai;Dubai;;5668;United Arab Emirates
+item1.URL;type=pref:hyattregencydubaicreekheights.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
